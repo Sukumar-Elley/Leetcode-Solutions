@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +38,20 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Greedy
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Sorting
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
