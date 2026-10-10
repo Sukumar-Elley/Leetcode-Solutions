@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1306-jump-game-iii](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
