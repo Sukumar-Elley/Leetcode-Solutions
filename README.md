@@ -38,10 +38,12 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1871-jump-game-vii](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1871-jump-game-vii](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,4 +74,9 @@
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
