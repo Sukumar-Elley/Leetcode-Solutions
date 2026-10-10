@@ -14,6 +14,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1306-jump-game-iii](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
@@ -52,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1340-jump-game-v](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -66,4 +68,8 @@
 | ------- |
 | [1306-jump-game-iii](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1340-jump-game-v](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 <!---LeetCode Topics End-->
