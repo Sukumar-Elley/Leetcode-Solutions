@@ -17,6 +17,7 @@
 | [1340-jump-game-v](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3093-longest-common-suffix-queries](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1871-jump-game-vii](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
+| [3093-longest-common-suffix-queries](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
