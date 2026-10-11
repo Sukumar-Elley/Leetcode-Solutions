@@ -20,6 +20,7 @@
 | [1340-jump-game-v](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3093-longest-common-suffix-queries](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Two Pointers
 |  |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
