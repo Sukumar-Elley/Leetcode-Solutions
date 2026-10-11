@@ -43,6 +43,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1871-jump-game-vii](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [3093-longest-common-suffix-queries](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Sliding Window
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1340-jump-game-v](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 ## Prefix Sum
@@ -90,4 +92,12 @@
 |  |
 | ------- |
 | [3093-longest-common-suffix-queries](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
