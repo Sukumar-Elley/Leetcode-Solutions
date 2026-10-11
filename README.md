@@ -8,6 +8,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Array
 |  |
@@ -38,6 +39,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1871-jump-game-vii](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [3093-longest-common-suffix-queries](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
@@ -75,6 +77,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [1340-jump-game-v](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 ## Prefix Sum
