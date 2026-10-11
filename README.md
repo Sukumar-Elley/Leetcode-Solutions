@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [1306-jump-game-iii](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [1345-jump-game-iv](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 ## String
 |  |
@@ -105,4 +107,20 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Sukumar-Elley/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
